@@ -37,3 +37,10 @@ p{
     margin-right: auto;
     width:201px; height:201px;
 }
+.iframe { 
+    width: 25%; /* It should not be 100% */ 
+    height: 500px; 
+    display: block;
+    margin-left: auto;   /* Automatic margin from left */ 
+    margin-right: auto; /* Automatic margin from right */ 
+   }
